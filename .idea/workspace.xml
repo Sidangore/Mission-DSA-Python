@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Mission DSA Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_1_SumOfNNaturalNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_2_CountDigitsInNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_3_PalindromicNumCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_4_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_5_GCD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_12_TrailingZeroesInFactorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Quiz_2_Remainder7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Quiz_6_Longest5Digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Quiz_7_NotDivisibleBy3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mathematics_Basics/Ex_8_PrimeFactors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_8_PrimeFactors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sidangore"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sidangore/Mission-DSA-Python.git",
+    "accountId": "20a99b3e-5711-4a6e-abda-c0918b04761c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -46,18 +52,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ex_10_SieveOfEratosthenes.executor": "Run",
+    "Python.Ex_11_ComputePower.executor": "Run",
+    "Python.Ex_12_TrailingZeroesInFactorial.executor": "Run",
     "Python.Ex_1_SumOfNNaturalNumbers.executor": "Run",
     "Python.Ex_2_CountDigitsInNum.executor": "Run",
     "Python.Ex_3_PalindromicNumCheck.executor": "Run",
     "Python.Ex_4_Factorial.executor": "Run",
     "Python.Ex_5_GCD.executor": "Run",
+    "Python.Ex_6_LCM.executor": "Run",
+    "Python.Ex_7_PrimeNumberCheck.executor": "Run",
+    "Python.Ex_8_PrimeFactors.executor": "Run",
+    "Python.Ex_9_AllDivisorsOfN.executor": "Run",
+    "Python.Quiz_2_Remainder7.executor": "Run",
+    "Python.Quiz_6_Longest5Digit.executor": "Run",
+    "Python.Quiz_7_NotDivisibleBy3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Ex_5_GCD">
-    <configuration name="Ex_1_SumOfNNaturalNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Quiz_7_NotDivisibleBy3">
+    <configuration name="Ex_11_ComputePower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_1_SumOfNNaturalNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_11_ComputePower.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_2_CountDigitsInNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_12_TrailingZeroesInFactorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_2_CountDigitsInNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_12_TrailingZeroesInFactorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_3_PalindromicNumCheck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Quiz_2_Remainder7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_3_PalindromicNumCheck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Quiz_2_Remainder7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_4_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Quiz_6_Longest5Digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_4_Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Quiz_6_Longest5Digit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_5_GCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Quiz_7_NotDivisibleBy3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_5_GCD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Quiz_7_NotDivisibleBy3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex_5_GCD" />
-        <item itemvalue="Python.Ex_4_Factorial" />
-        <item itemvalue="Python.Ex_3_PalindromicNumCheck" />
-        <item itemvalue="Python.Ex_2_CountDigitsInNum" />
-        <item itemvalue="Python.Ex_1_SumOfNNaturalNumbers" />
+        <item itemvalue="Python.Quiz_7_NotDivisibleBy3" />
+        <item itemvalue="Python.Quiz_6_Longest5Digit" />
+        <item itemvalue="Python.Quiz_2_Remainder7" />
+        <item itemvalue="Python.Ex_12_TrailingZeroesInFactorial" />
+        <item itemvalue="Python.Ex_11_ComputePower" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +231,29 @@
       <option name="presentableId" value="Default" />
       <updated>1725780362495</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1725791241149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725791241149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1725812535343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725812535343</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
