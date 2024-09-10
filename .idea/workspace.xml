@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Third Commit">
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_12_TrailingZeroesInFactorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Quiz_2_Remainder7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Quiz_6_Longest5Digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Quiz_7_NotDivisibleBy3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_10_OneOddOccurring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_1_AverageOfList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_2_SeparateEvenOdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_3_GetSmallerElements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_4_LargestElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_5_SecondLargest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_6_IsSorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_7_ReverseAList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_8_RemoveDuplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Ex_9_LeftRotateBy1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/List_Basics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Prob_3_WhoIsMajority.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Prob_5_MaxMinInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Prob_7_DeleteAndShift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Prob_8_MeanMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Quiz_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mathematics_Basics/Ex_8_PrimeFactors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematics_Basics/Ex_8_PrimeFactors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +39,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sidangore"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sidangore&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sidangore/Mission-DSA-Python.git",
-    "accountId": "20a99b3e-5711-4a6e-abda-c0918b04761c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sidangore/Mission-DSA-Python.git&quot;,
+    &quot;accountId&quot;: &quot;20a99b3e-5711-4a6e-abda-c0918b04761c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lmLZOXHzQirx6RoRfqedScstqL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,19 +64,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ex_10_OneOddOccurring.executor": "Run",
     "Python.Ex_10_SieveOfEratosthenes.executor": "Run",
     "Python.Ex_11_ComputePower.executor": "Run",
     "Python.Ex_12_TrailingZeroesInFactorial.executor": "Run",
+    "Python.Ex_1_AverageOfList.executor": "Run",
     "Python.Ex_1_SumOfNNaturalNumbers.executor": "Run",
     "Python.Ex_2_CountDigitsInNum.executor": "Run",
+    "Python.Ex_2_SeparateEvenOdd.executor": "Run",
+    "Python.Ex_3_GetSmallerElements.executor": "Run",
     "Python.Ex_3_PalindromicNumCheck.executor": "Run",
     "Python.Ex_4_Factorial.executor": "Run",
+    "Python.Ex_4_LargestElement.executor": "Run",
+    "Python.Ex_4_ReverseAList.executor": "Run",
     "Python.Ex_5_GCD.executor": "Run",
+    "Python.Ex_5_SecondLargest.executor": "Run",
+    "Python.Ex_6_IsSorted.executor": "Run",
     "Python.Ex_6_LCM.executor": "Run",
     "Python.Ex_7_PrimeNumberCheck.executor": "Run",
     "Python.Ex_8_PrimeFactors.executor": "Run",
+    "Python.Ex_8_RemoveDuplicates.executor": "Run",
     "Python.Ex_9_AllDivisorsOfN.executor": "Run",
+    "Python.Ex_9_LeftRotateBy1.executor": "Run",
+    "Python.Prob_7_DeleteAndShift.executor": "Run",
+    "Python.Prob_8_MeanMedian.executor": "Run",
     "Python.Quiz_2_Remainder7.executor": "Run",
+    "Python.Quiz_4.executor": "Run",
     "Python.Quiz_6_Longest5Digit.executor": "Run",
     "Python.Quiz_7_NotDivisibleBy3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,8 +97,8 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Quiz_7_NotDivisibleBy3">
-    <configuration name="Ex_11_ComputePower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Quiz_4">
+    <configuration name="Ex_10_OneOddOccurring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_11_ComputePower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Ex_10_OneOddOccurring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_12_TrailingZeroesInFactorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_9_LeftRotateBy1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Ex_12_TrailingZeroesInFactorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Ex_9_LeftRotateBy1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quiz_2_Remainder7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prob_7_DeleteAndShift" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Quiz_2_Remainder7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Prob_7_DeleteAndShift.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quiz_6_Longest5Digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prob_8_MeanMedian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Quiz_6_Longest5Digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Prob_8_MeanMedian.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quiz_7_NotDivisibleBy3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Quiz_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Quiz_7_NotDivisibleBy3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Quiz_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Quiz_7_NotDivisibleBy3" />
-        <item itemvalue="Python.Quiz_6_Longest5Digit" />
-        <item itemvalue="Python.Quiz_2_Remainder7" />
-        <item itemvalue="Python.Ex_12_TrailingZeroesInFactorial" />
-        <item itemvalue="Python.Ex_11_ComputePower" />
+        <item itemvalue="Python.Quiz_4" />
+        <item itemvalue="Python.Prob_8_MeanMedian" />
+        <item itemvalue="Python.Prob_7_DeleteAndShift" />
+        <item itemvalue="Python.Ex_10_OneOddOccurring" />
+        <item itemvalue="Python.Ex_9_LeftRotateBy1" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725899348652</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third Commit">
+      <option name="closed" value="true" />
+      <created>1725899364333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725899364333</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
