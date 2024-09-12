@@ -4,29 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="List (Basics)">
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Examples/Ex_1_SimpleRecursionNTimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Examples/Ex_2_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Examples/Ex_3_Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Examples/Ex_4_Print1toN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Examples/Ex_5_PrintNto1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Examples/Ex_6_SumOfDigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Examples/Ex_7_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_10_GCD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_1_Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_2_1ToN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_3_PrintArr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_4_SumDigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_5_NumDigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_6_Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_7_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_8_PalindromeNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_9_SumN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Quiz/Quiz_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Quiz/Quiz_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/Quiz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Basics/__init__.py" afterDir="false" />
+    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Recursion (Basics) + Refactoring">
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_11_IsSorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_12_RotateArrayByD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_13_GetIndexEle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_14_MaxMinInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_15_ReverseArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_4_SmallerX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_5_ImmediateSmallerX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_6_CountGreaterX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_9_GreaterThanX.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Basics/Problems/Prob_3_WhoIsMajority.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_Basics/Problems/Prob_10_WhoIsMajority.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Basics/Problems/Prob_5_MaxMinInArray.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,16 +87,26 @@
     "Python.Ex_8_RemoveDuplicates.executor": "Run",
     "Python.Ex_9_AllDivisorsOfN.executor": "Run",
     "Python.Ex_9_LeftRotateBy1.executor": "Run",
+    "Python.Prob_10_GCD.executor": "Run",
+    "Python.Prob_11_IsSorted.executor": "Run",
+    "Python.Prob_11_nCr.executor": "Run",
+    "Python.Prob_12_RotateArrayByD.executor": "Run",
+    "Python.Prob_13_GetIndexEle.executor": "Run",
+    "Python.Prob_15_ReverseArray.executor": "Run",
     "Python.Prob_1_Sequence.executor": "Run",
     "Python.Prob_2_1ToN.executor": "Run",
     "Python.Prob_3_PrintArr.executor": "Run",
     "Python.Prob_4_SumDigits.executor": "Run",
+    "Python.Prob_5_ImmediateSmallerX.executor": "Run",
+    "Python.Prob_5_MaxMinInArray.executor": "Run",
     "Python.Prob_5_NumDigits.executor": "Run",
+    "Python.Prob_6_CountGreaterX.executor": "Run",
     "Python.Prob_6_Fibonacci.executor": "Run",
     "Python.Prob_7_DeleteAndShift.executor": "Run",
     "Python.Prob_7_Factorial.executor": "Run",
     "Python.Prob_8_MeanMedian.executor": "Run",
     "Python.Prob_8_PalindromeNum.executor": "Run",
+    "Python.Prob_9_GreaterThanX.executor": "Run",
     "Python.Prob_9_SumN.executor": "Run",
     "Python.Quiz_1.executor": "Run",
     "Python.Quiz_2.executor": "Run",
@@ -121,13 +121,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Recursion_Basics/Quiz" />
-      <recent name="$PROJECT_DIR$/Recursion_Basics" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/List_Basics/Quiz" />
+      <recent name="$PROJECT_DIR$/List_Basics/Problems" />
+      <recent name="$PROJECT_DIR$/List_Basics/Examples" />
+      <recent name="$PROJECT_DIR$/Mathematics_Basics/Quiz" />
+      <recent name="$PROJECT_DIR$/Mathematics_Basics/Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Prob_11_nCr">
-    <configuration name="Prob_10_GCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Prob_4_SmallerX">
+    <configuration name="Prob_11_IsSorted" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_10_GCD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Problems/Prob_11_IsSorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_11_nCr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prob_4_SmallerX" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_11_nCr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Problems/Prob_4_SmallerX.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_7_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prob_5_ImmediateSmallerX" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_7_Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Problems/Prob_5_ImmediateSmallerX.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_8_PalindromeNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prob_6_CountGreaterX" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_8_PalindromeNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Problems/Prob_6_CountGreaterX.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_9_SumN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prob_9_GreaterThanX" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion_Basics/Problems/Prob_9_SumN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics/Problems/Prob_9_GreaterThanX.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Prob_11_nCr" />
-        <item itemvalue="Python.Prob_10_GCD" />
-        <item itemvalue="Python.Prob_9_SumN" />
-        <item itemvalue="Python.Prob_8_PalindromeNum" />
-        <item itemvalue="Python.Prob_7_Factorial" />
+        <item itemvalue="Python.Prob_4_SmallerX" />
+        <item itemvalue="Python.Prob_5_ImmediateSmallerX" />
+        <item itemvalue="Python.Prob_6_CountGreaterX" />
+        <item itemvalue="Python.Prob_9_GreaterThanX" />
+        <item itemvalue="Python.Prob_11_IsSorted" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725956308519</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Recursion (Basics) + Refactoring">
+      <option name="closed" value="true" />
+      <created>1726140362697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726140362697</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -333,7 +343,8 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third Commit" />
     <MESSAGE value="List (Basics)" />
-    <option name="LAST_COMMIT_MESSAGE" value="List (Basics)" />
+    <MESSAGE value="Recursion (Basics) + Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion (Basics) + Refactoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
