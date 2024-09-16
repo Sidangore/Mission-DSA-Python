@@ -4,23 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="List (Basics) Problems Added">
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_10_SqrtFloor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_1_BinarySearchIter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_2_BinarySearchRec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_3_FirstOccurrenceItr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_4_FirstOccRec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_5_FirstOccItr2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_6_LastOccItr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_7_LastOccRec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_8_CountOcc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Examples/Ex_9_Count1s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Problems/Prob_1_CheckInSortedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Problems/Prob_2_LeftIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Problems/Prob_3_PeakElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Problems/Prob_4_Count1s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching_Basics/Problems/Prob_5_FloorInSortedArr.py" afterDir="false" />
+    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Sorting (Basics)">
+      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_13_IterativePower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_1_SortedIntroduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_2_BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_3_OptimizedBubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_4_SelectionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_5_InsertionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_6_Merge2Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_7_MergeSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_10_SieveOfEratosthenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_10_SieveOfEratosthenes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_9_AllDivisorsOfN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_9_AllDivisorsOfN.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,32 +62,40 @@
     "Python.Ex_10_SqrtFloor.executor": "Run",
     "Python.Ex_11_ComputePower.executor": "Run",
     "Python.Ex_12_TrailingZeroesInFactorial.executor": "Run",
+    "Python.Ex_13_IterativePower.executor": "Run",
     "Python.Ex_1_AverageOfList.executor": "Run",
     "Python.Ex_1_BinarySearchIter.executor": "Run",
     "Python.Ex_1_SimpleRecursionNTimes.executor": "Run",
+    "Python.Ex_1_SortedIntroduction.executor": "Run",
     "Python.Ex_1_SumOfNNaturalNumbers.executor": "Run",
     "Python.Ex_2_BinarySearchRec.executor": "Run",
+    "Python.Ex_2_BubbleSort.executor": "Run",
     "Python.Ex_2_CountDigitsInNum.executor": "Run",
     "Python.Ex_2_Factorial.executor": "Run",
     "Python.Ex_2_SeparateEvenOdd.executor": "Run",
     "Python.Ex_3_Fibonacci.executor": "Run",
     "Python.Ex_3_FirstOccurrenceItr.executor": "Run",
     "Python.Ex_3_GetSmallerElements.executor": "Run",
+    "Python.Ex_3_OptimizedBubbleSort.executor": "Run",
     "Python.Ex_3_PalindromicNumCheck.executor": "Run",
     "Python.Ex_4_Factorial.executor": "Run",
     "Python.Ex_4_FirstOccRec.executor": "Run",
     "Python.Ex_4_LargestElement.executor": "Run",
     "Python.Ex_4_Print1toN.executor": "Run",
     "Python.Ex_4_ReverseAList.executor": "Run",
+    "Python.Ex_4_SelectionSort.executor": "Run",
     "Python.Ex_5_FirstOccItr2.executor": "Run",
     "Python.Ex_5_GCD.executor": "Run",
+    "Python.Ex_5_InsertionSort.executor": "Run",
     "Python.Ex_5_PrintNto1.executor": "Run",
     "Python.Ex_5_SecondLargest.executor": "Run",
     "Python.Ex_6_IsSorted.executor": "Run",
     "Python.Ex_6_LCM.executor": "Run",
     "Python.Ex_6_LastOccItr.executor": "Run",
+    "Python.Ex_6_Merge2Arrays.executor": "Run",
     "Python.Ex_6_SumOfDigits.executor": "Run",
     "Python.Ex_7_LastOccRec.executor": "Run",
+    "Python.Ex_7_MergeSort.executor": "Run",
     "Python.Ex_7_Palindrome.executor": "Run",
     "Python.Ex_7_PrimeNumberCheck.executor": "Run",
     "Python.Ex_8_CountOcc.executor": "Run",
@@ -148,8 +151,8 @@
       <recent name="$PROJECT_DIR$/Mathematics_Basics/Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Prob_5_FloorInSortedArr">
-    <configuration name="Ex_5_FirstOccItr2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex_7_MergeSort">
+    <configuration name="Ex_10_SieveOfEratosthenes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Searching_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Searching_Basics/Examples/Ex_5_FirstOccItr2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_10_SieveOfEratosthenes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_2_LeftIndex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_13_IterativePower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Searching_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Searching_Basics/Problems/Prob_2_LeftIndex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_13_IterativePower.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_3_PeakElement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_6_Merge2Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Searching_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Searching_Basics/Problems/Prob_3_PeakElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_6_Merge2Arrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_4_Count1s" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_7_MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Searching_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Searching_Basics/Problems/Prob_4_Count1s.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_7_MergeSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_5_FloorInSortedArr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_9_AllDivisorsOfN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,11 +249,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Searching_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Searching_Basics/Problems/Prob_5_FloorInSortedArr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_9_AllDivisorsOfN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Prob_5_FloorInSortedArr" />
-        <item itemvalue="Python.Ex_5_FirstOccItr2" />
-        <item itemvalue="Python.Prob_4_Count1s" />
-        <item itemvalue="Python.Prob_3_PeakElement" />
-        <item itemvalue="Python.Prob_2_LeftIndex" />
+        <item itemvalue="Python.Ex_7_MergeSort" />
+        <item itemvalue="Python.Ex_13_IterativePower" />
+        <item itemvalue="Python.Ex_10_SieveOfEratosthenes" />
+        <item itemvalue="Python.Ex_9_AllDivisorsOfN" />
+        <item itemvalue="Python.Ex_6_Merge2Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726142367543</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Sorting (Basics)">
+      <option name="closed" value="true" />
+      <created>1726246194992</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726246194992</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -373,7 +384,8 @@
     <MESSAGE value="List (Basics)" />
     <MESSAGE value="Recursion (Basics) + Refactoring" />
     <MESSAGE value="List (Basics) Problems Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="List (Basics) Problems Added" />
+    <MESSAGE value="Sorting (Basics)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorting (Basics)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -29,8 +29,19 @@ def all_divisors_eff(n):
         i -= 1
 
 
+def divisors3(n: int):
+    i = 1
+    while (i * i) <= n:
+        if n % i == 0:
+            if n // i == i:
+                print(i, end=" ")
+            else:
+                print(i, n // i, end=" ")
+        i += 1
+
+
 if __name__ == '__main__':
     nums = list(map(int, input("Enter numbers: ").split()))
     for i in nums:
-        print(all_divisors(i))
-        print(all_divisors_eff(i))
+        print(divisors3(i))
+        # print(all_divisors_eff(i))

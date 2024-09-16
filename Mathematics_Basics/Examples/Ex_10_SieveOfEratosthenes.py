@@ -44,7 +44,22 @@ def sieve_of_eratosthenes(n) -> None:
             print(i, end=" ")
 
 
+def sieve_of_eratosthenes1(n: int):
+    primes = [True] * (n + 1)
+
+    i = 2
+    while (i * i) <= n:
+        if primes[i]:
+            for j in range(i * 2, n + 1, i):
+                primes[j] = False
+        i += 1
+
+    for i in range(2, n + 1):
+        if primes[i]:
+            print(i, end=" ")
+
+
 if __name__ == '__main__':
     nums = list(map(int, input("Enter numbers: ").split()))
     for i in nums:
-        print(sieve_of_eratosthenes(i))
+        print(sieve_of_eratosthenes1(i))
