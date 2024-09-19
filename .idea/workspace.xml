@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Sorting (Basics)">
-      <change afterPath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_13_IterativePower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_1_SortedIntroduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_2_BubbleSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_3_OptimizedBubbleSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_4_SelectionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_5_InsertionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_6_Merge2Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_7_MergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_10_CountInversions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_11_LomutoAlgo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_12_HoaresAlgo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_13_QuickSortLomuto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_14_QuickSortHoares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_1_Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_2_BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_3_OptimisedBubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_4_SelectionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_5_InsertionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_6_MergingTwoSortedArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_7_MergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_8_Union.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Basics/misc/Misc_9_Intersection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_10_SieveOfEratosthenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_10_SieveOfEratosthenes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_9_AllDivisorsOfN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_9_AllDivisorsOfN.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +108,18 @@
     "Python.Ex_9_AllDivisorsOfN.executor": "Run",
     "Python.Ex_9_Count1s.executor": "Run",
     "Python.Ex_9_LeftRotateBy1.executor": "Run",
+    "Python.Misc_10_CountInversions.executor": "Run",
+    "Python.Misc_13_QuickSortLomuto.executor": "Run",
+    "Python.Misc_14_QuickSortHoares.executor": "Run",
+    "Python.Misc_1_Basics.executor": "Run",
+    "Python.Misc_2_BubbleSort.executor": "Run",
+    "Python.Misc_3_OptimisedBubbleSort.executor": "Run",
+    "Python.Misc_4_SelectionSort.executor": "Run",
+    "Python.Misc_5_InsertionSort.executor": "Run",
+    "Python.Misc_6_MergingTwoSortedArrays.executor": "Run",
+    "Python.Misc_7_MergeSort.executor": "Run",
+    "Python.Misc_8_Union.executor": "Run",
+    "Python.Misc_9_Intersection.executor": "Run",
     "Python.Prob_10_GCD.executor": "Run",
     "Python.Prob_11_IsSorted.executor": "Run",
     "Python.Prob_11_nCr.executor": "Run",
@@ -138,6 +154,7 @@
     "Python.Quiz_6_Longest5Digit.executor": "Run",
     "Python.Quiz_7_NotDivisibleBy3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.editor"
   }
@@ -151,8 +168,8 @@
       <recent name="$PROJECT_DIR$/Mathematics_Basics/Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex_7_MergeSort">
-    <configuration name="Ex_10_SieveOfEratosthenes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Misc_14_QuickSortHoares">
+    <configuration name="Misc_10_CountInversions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/misc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_10_SieveOfEratosthenes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/misc/Misc_10_CountInversions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_13_IterativePower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Misc_13_QuickSortLomuto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/misc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_13_IterativePower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/misc/Misc_13_QuickSortLomuto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_6_Merge2Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Misc_14_QuickSortHoares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/misc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_6_Merge2Arrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/misc/Misc_14_QuickSortHoares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_7_MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Misc_8_Union" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/misc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/Examples/Ex_7_MergeSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/misc/Misc_8_Union.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_9_AllDivisorsOfN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Misc_9_Intersection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting_Basics/misc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics_Basics/Examples/Ex_9_AllDivisorsOfN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Basics/misc/Misc_9_Intersection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex_7_MergeSort" />
-        <item itemvalue="Python.Ex_13_IterativePower" />
-        <item itemvalue="Python.Ex_10_SieveOfEratosthenes" />
-        <item itemvalue="Python.Ex_9_AllDivisorsOfN" />
-        <item itemvalue="Python.Ex_6_Merge2Arrays" />
+        <item itemvalue="Python.Misc_14_QuickSortHoares" />
+        <item itemvalue="Python.Misc_13_QuickSortLomuto" />
+        <item itemvalue="Python.Misc_10_CountInversions" />
+        <item itemvalue="Python.Misc_9_Intersection" />
+        <item itemvalue="Python.Misc_8_Union" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726246194992</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Sorting (Basics)">
+      <option name="closed" value="true" />
+      <created>1726481944820</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726481944820</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
