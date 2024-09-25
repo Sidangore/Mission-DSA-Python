@@ -14,7 +14,26 @@ def winner(names):
     return potential_winners[0]
 
 
+def winner2(names):
+    votes = dict()
+    max_votes = 0
+    winner = ""
+
+    for name in names:
+        if name not in votes:
+            votes[name] = 0
+        votes[name] += 1
+    print(votes)
+
+    for name, count in votes.items():
+        if count > max_votes or (count == max_votes and name < winner):
+            max_votes = count
+            winner = name
+
+    print([winner, max_votes])
+
+
 s = "john,johnny,jackie,johnny,john,jackie,jamie,jamie,john,johnny,jamie,johnny,john"
 names = s.split(",")
-winner(names)
+winner2(names)
 

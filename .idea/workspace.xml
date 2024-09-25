@@ -4,22 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Sorting (Basics) Part 2">
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Examples/Ex_1_BirthdayParadox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Examples/Ex_2_Chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Examples/Ex_3_FreqOfArrEle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Examples/Ex_4_OpenAddr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Examples/Ex_5_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_1_HashingForPairSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_2_LinearProbing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_3_QuadraticProbing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_4_Chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_5_CountNonRepeating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_6_PrintNonRepeating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_7_FirstNonRepeatingChar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_8_Winner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_9_FirstRepeating.py" afterDir="false" />
+    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Hashing (Basics)">
+      <change afterPath="$PROJECT_DIR$/Misc/GettingLCQue/GetDeets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_2_Rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_3_ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_4_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_5_Subseq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_6_LeftmostRepeating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_7_LeftmostNonRepeating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_8_ReverseWordsinString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_9_RevPosOfwordsInSt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Misc/ExcelCols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_10_CountWords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_11_StringValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_1_LenOfStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_2_DistinctVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_3_VowelsinStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_4_LowertoUpper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_5_UpperToLower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_6_RevAStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_7_Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_8_Pangram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_9_MissingPangram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_8_Winner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_8_Winner.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +79,7 @@
     "Python.Ex_1_AverageOfList.executor": "Run",
     "Python.Ex_1_BinarySearchIter.executor": "Run",
     "Python.Ex_1_BirthdayParadox.executor": "Run",
+    "Python.Ex_1_Intro.executor": "Run",
     "Python.Ex_1_SimpleRecursionNTimes.executor": "Run",
     "Python.Ex_1_SortedIntroduction.executor": "Run",
     "Python.Ex_1_SumOfNNaturalNumbers.executor": "Run",
@@ -78,6 +88,7 @@
     "Python.Ex_2_Chaining.executor": "Run",
     "Python.Ex_2_CountDigitsInNum.executor": "Run",
     "Python.Ex_2_Factorial.executor": "Run",
+    "Python.Ex_2_Rotation.executor": "Run",
     "Python.Ex_2_SeparateEvenOdd.executor": "Run",
     "Python.Ex_3_Fibonacci.executor": "Run",
     "Python.Ex_3_FirstOccurrenceItr.executor": "Run",
@@ -86,9 +97,11 @@
     "Python.Ex_3_OptimizedBubbleSort.executor": "Run",
     "Python.Ex_3_PalindromicNumCheck.executor": "Run",
     "Python.Ex_3_QuadraticProbing.executor": "Run",
+    "Python.Ex_3_ReverseString.executor": "Run",
     "Python.Ex_4_Factorial.executor": "Run",
     "Python.Ex_4_FirstOccRec.executor": "Run",
     "Python.Ex_4_LargestElement.executor": "Run",
+    "Python.Ex_4_Palindrome.executor": "Run",
     "Python.Ex_4_Print1toN.executor": "Run",
     "Python.Ex_4_ReverseAList.executor": "Run",
     "Python.Ex_4_SelectionSort.executor": "Run",
@@ -98,21 +111,28 @@
     "Python.Ex_5_PrintNto1.executor": "Run",
     "Python.Ex_5_SecondLargest.executor": "Run",
     "Python.Ex_5_Set.executor": "Run",
+    "Python.Ex_5_Subseq.executor": "Run",
     "Python.Ex_6_IsSorted.executor": "Run",
     "Python.Ex_6_LCM.executor": "Run",
     "Python.Ex_6_LastOccItr.executor": "Run",
+    "Python.Ex_6_LeftmostRepeating.executor": "Run",
     "Python.Ex_6_Merge2Arrays.executor": "Run",
     "Python.Ex_6_SumOfDigits.executor": "Run",
     "Python.Ex_7_LastOccRec.executor": "Run",
+    "Python.Ex_7_LeftmostNonRepeating.executor": "Run",
     "Python.Ex_7_MergeSort.executor": "Run",
     "Python.Ex_7_Palindrome.executor": "Run",
     "Python.Ex_7_PrimeNumberCheck.executor": "Run",
     "Python.Ex_8_CountOcc.executor": "Run",
     "Python.Ex_8_PrimeFactors.executor": "Run",
     "Python.Ex_8_RemoveDuplicates.executor": "Run",
+    "Python.Ex_8_ReverseWordsinString.executor": "Run",
     "Python.Ex_9_AllDivisorsOfN.executor": "Run",
     "Python.Ex_9_Count1s.executor": "Run",
     "Python.Ex_9_LeftRotateBy1.executor": "Run",
+    "Python.Ex_9_RevPosOfwordsInSt.executor": "Run",
+    "Python.ExcelCols.executor": "Run",
+    "Python.GetDeets.executor": "Run",
     "Python.Misc_10_CountInversions.executor": "Run",
     "Python.Misc_13_QuickSortLomuto.executor": "Run",
     "Python.Misc_14_QuickSortHoares.executor": "Run",
@@ -181,8 +201,8 @@
       <recent name="$PROJECT_DIR$/Mathematics_Basics/Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Prob_9_FirstRepeating">
-    <configuration name="Prob_5_CountNonRepeating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex_9_RevPosOfwordsInSt">
+    <configuration name="Ex_6_LeftmostRepeating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_5_CountNonRepeating.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_6_LeftmostRepeating.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_6_PrintNonRepeating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_7_LeftmostNonRepeating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,11 +233,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_6_PrintNonRepeating.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_7_LeftmostNonRepeating.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_7_FirstNonRepeatingChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_8_ReverseWordsinString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,11 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_7_FirstNonRepeatingChar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_8_ReverseWordsinString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_8_Winner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_9_RevPosOfwordsInSt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_8_Winner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_9_RevPosOfwordsInSt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_9_FirstRepeating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GetDeets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing_Basics/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc/GettingLCQue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_9_FirstRepeating.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/GettingLCQue/GetDeets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Prob_9_FirstRepeating" />
-        <item itemvalue="Python.Prob_8_Winner" />
-        <item itemvalue="Python.Prob_7_FirstNonRepeatingChar" />
-        <item itemvalue="Python.Prob_6_PrintNonRepeating" />
-        <item itemvalue="Python.Prob_5_CountNonRepeating" />
+        <item itemvalue="Python.Ex_9_RevPosOfwordsInSt" />
+        <item itemvalue="Python.Ex_8_ReverseWordsinString" />
+        <item itemvalue="Python.Ex_7_LeftmostNonRepeating" />
+        <item itemvalue="Python.Ex_6_LeftmostRepeating" />
+        <item itemvalue="Python.GetDeets" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726764934190</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Hashing (Basics)">
+      <option name="closed" value="true" />
+      <created>1726938646200</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726938646200</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -432,7 +460,8 @@
     <MESSAGE value="List (Basics) Problems Added" />
     <MESSAGE value="Sorting (Basics)" />
     <MESSAGE value="Sorting (Basics) Part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorting (Basics) Part 2" />
+    <MESSAGE value="Hashing (Basics)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hashing (Basics)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
