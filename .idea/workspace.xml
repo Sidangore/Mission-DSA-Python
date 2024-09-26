@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="Hashing (Basics)">
-      <change afterPath="$PROJECT_DIR$/Misc/GettingLCQue/GetDeets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_1_Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_2_Rotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_3_ReverseString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_4_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_5_Subseq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_6_LeftmostRepeating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_7_LeftmostNonRepeating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_8_ReverseWordsinString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Ex_9_RevPosOfwordsInSt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Examples/Misc/ExcelCols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_10_CountWords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_11_StringValidation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_1_LenOfStr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_2_DistinctVowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_3_VowelsinStr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_4_LowertoUpper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_5_UpperToLower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_6_RevAStr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_7_Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_8_Pangram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Basics/Problems/Prob_9_MissingPangram.py" afterDir="false" />
+    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="String (Basics)">
+      <change afterPath="$PROJECT_DIR$/Misc/GettingLCQue/LC_41_FirstPosNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/LC_151_RevWordsOfStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/LC_43_MultiplyStrings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_8_Winner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing_Basics/Problems/Prob_8_Winner.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +113,9 @@
     "Python.Ex_9_RevPosOfwordsInSt.executor": "Run",
     "Python.ExcelCols.executor": "Run",
     "Python.GetDeets.executor": "Run",
+    "Python.LC_151_RevWordsOfStr.executor": "Run",
+    "Python.LC_41_FirstPosNum.executor": "Run",
+    "Python.LC_43_MultiplyStrings.executor": "Run",
     "Python.Misc_10_CountInversions.executor": "Run",
     "Python.Misc_13_QuickSortLomuto.executor": "Run",
     "Python.Misc_14_QuickSortHoares.executor": "Run",
@@ -201,51 +184,7 @@
       <recent name="$PROJECT_DIR$/Mathematics_Basics/Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex_9_RevPosOfwordsInSt">
-    <configuration name="Ex_6_LeftmostRepeating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Mission DSA Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_6_LeftmostRepeating.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex_7_LeftmostNonRepeating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Mission DSA Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_7_LeftmostNonRepeating.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.LC_151_RevWordsOfStr">
     <configuration name="Ex_8_ReverseWordsinString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
@@ -290,7 +229,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GetDeets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_151_RevWordsOfStr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mission DSA Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/LC_151_RevWordsOfStr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LC_41_FirstPosNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,7 +264,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/GettingLCQue/GetDeets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/GettingLCQue/LC_41_FirstPosNum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LC_43_MultiplyStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mission DSA Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/LC_43_MultiplyStrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LC_151_RevWordsOfStr" />
+        <item itemvalue="Python.LC_41_FirstPosNum" />
+        <item itemvalue="Python.LC_43_MultiplyStrings" />
         <item itemvalue="Python.Ex_9_RevPosOfwordsInSt" />
         <item itemvalue="Python.Ex_8_ReverseWordsinString" />
-        <item itemvalue="Python.Ex_7_LeftmostNonRepeating" />
-        <item itemvalue="Python.Ex_6_LeftmostRepeating" />
-        <item itemvalue="Python.GetDeets" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726938646200</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="String (Basics)">
+      <option name="closed" value="true" />
+      <created>1727222850741</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727222850741</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -461,7 +452,8 @@
     <MESSAGE value="Sorting (Basics)" />
     <MESSAGE value="Sorting (Basics) Part 2" />
     <MESSAGE value="Hashing (Basics)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashing (Basics)" />
+    <MESSAGE value="String (Basics)" />
+    <option name="LAST_COMMIT_MESSAGE" value="String (Basics)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
