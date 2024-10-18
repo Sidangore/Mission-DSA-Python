@@ -4,11 +4,82 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="String (Basics)">
-      <change afterPath="$PROJECT_DIR$/Misc/GettingLCQue/LC_41_FirstPosNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/LC_151_RevWordsOfStr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/LC_43_MultiplyStrings.py" afterDir="false" />
+    <list default="true" id="037da807-3b8f-4a12-b082-ae809ca3564f" name="Changes" comment="LC Misc">
+      <change afterPath="$PROJECT_DIR$/Circular_Linked_List_Basics/Examples/Ex_1_CreatingCLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular_Linked_List_Basics/Examples/Ex_2_TraversingCLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular_Linked_List_Basics/Examples/Ex_3_InsertAtStart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular_Linked_List_Basics/Examples/Ex_4_InsertAtEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular_Linked_List_Basics/Examples/Ex_5_DeleteHead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular_Linked_List_Basics/Examples/Ex_6_DeleteKNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Examples/Ex_1_CreateDLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Examples/Ex_2_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Examples/Ex_3_Insert_Head.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Examples/Ex_4_Insert_End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Examples/Ex_5_delete_head.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Examples/Ex_6_delete_tail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Examples/Ex_7_Reverse_DLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_10_sorted_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_11_reverse_dll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_12_delete_head_in_dll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_13_insert_after_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_1_Middle_of_CLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_2_Compare_two_clls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_3_is_dll_circular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_4_display_cdll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_5_delete_node_at_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_6_delete_tail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_7_insert_tail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_8_head_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List/Problems/Prob_9_display_dll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/3BitsInNumSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/MaxValOfOrderedTrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/Mis_KarbonBusiness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/StrWOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/StrWOps2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_10_SortedInsert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_11_Middle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_12_NthFromEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_13_RemoveDupFromSorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_14_ReverseSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_1_BasicNodeClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_2_PrintSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_3_SearchInSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_4_InsertAtstart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_5_InsertAtEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_6_InsertAtPos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_7_deleteFirst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_8_DeleteLast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Examples/Ex_9_DeleteNodeWithPtr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_10_SumOfDataInSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_11_MinMaxInSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_12_InsertAtEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_13_InsertInMiddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_14_InsertAtPos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_15_SortedInsert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_16_DelAtEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_17_Join2SLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_18_ReverseSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_19_PalindromeSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_1_CountLenOfSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_2_SearchInSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_3_DelHeadOfSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_4_DelAtPos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_5_IsSortedAscDesc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_6_KthNodeFromEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_7_RemoveDupFromSortedSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_8_IdenticalSLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_Linked_List_Basics/Problems/Prob_9_SLLtoArr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/Examples/ex_1_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/Examples/ex_2_using_deque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/Examples/ex_3_custom_implementation_using_linked_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/Examples/ex_4_balanced_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/Examples/ex_5_min_element_in_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/problems/prob_1_balanced_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/problems/prob_2_remove_second_duplicate_in_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_Basics/problems/prob_3_remove_consecutives_duplicates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc/GettingLCQue/GetDeets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/GettingLCQue/GetDeets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Searching_Basics/Problems/Prob_3_PeakElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Searching_Basics/Problems/Prob_3_PeakElement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +121,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.3BitsInNumSum.executor": "Run",
     "Python.Ex_10_OneOddOccurring.executor": "Run",
     "Python.Ex_10_SieveOfEratosthenes.executor": "Run",
+    "Python.Ex_10_SortedInsert.executor": "Run",
     "Python.Ex_10_SqrtFloor.executor": "Run",
     "Python.Ex_11_ComputePower.executor": "Run",
+    "Python.Ex_11_Middle.executor": "Run",
+    "Python.Ex_12_NthFromEnd.executor": "Run",
     "Python.Ex_12_TrailingZeroesInFactorial.executor": "Run",
     "Python.Ex_13_IterativePower.executor": "Run",
+    "Python.Ex_13_RemoveDupFromSorted.executor": "Run",
+    "Python.Ex_14_ReverseSLL.executor": "Run",
     "Python.Ex_1_AverageOfList.executor": "Run",
+    "Python.Ex_1_BasicNodeClass.executor": "Run",
     "Python.Ex_1_BinarySearchIter.executor": "Run",
     "Python.Ex_1_BirthdayParadox.executor": "Run",
     "Python.Ex_1_Intro.executor": "Run",
@@ -68,47 +146,66 @@
     "Python.Ex_2_Chaining.executor": "Run",
     "Python.Ex_2_CountDigitsInNum.executor": "Run",
     "Python.Ex_2_Factorial.executor": "Run",
+    "Python.Ex_2_PrintSLL.executor": "Run",
     "Python.Ex_2_Rotation.executor": "Run",
     "Python.Ex_2_SeparateEvenOdd.executor": "Run",
+    "Python.Ex_2_Traversal.executor": "Run",
+    "Python.Ex_2_TraversingCLL.executor": "Run",
     "Python.Ex_3_Fibonacci.executor": "Run",
     "Python.Ex_3_FirstOccurrenceItr.executor": "Run",
     "Python.Ex_3_FreqOfArrEle.executor": "Run",
     "Python.Ex_3_GetSmallerElements.executor": "Run",
+    "Python.Ex_3_InsertAtStart.executor": "Run",
+    "Python.Ex_3_Insert_Head.executor": "Run",
     "Python.Ex_3_OptimizedBubbleSort.executor": "Run",
     "Python.Ex_3_PalindromicNumCheck.executor": "Run",
     "Python.Ex_3_QuadraticProbing.executor": "Run",
     "Python.Ex_3_ReverseString.executor": "Run",
+    "Python.Ex_3_SearchInSLL.executor": "Run",
     "Python.Ex_4_Factorial.executor": "Run",
     "Python.Ex_4_FirstOccRec.executor": "Run",
+    "Python.Ex_4_InsertAtEnd.executor": "Run",
+    "Python.Ex_4_InsertAtstart.executor": "Run",
+    "Python.Ex_4_Insert_End.executor": "Run",
     "Python.Ex_4_LargestElement.executor": "Run",
     "Python.Ex_4_Palindrome.executor": "Run",
     "Python.Ex_4_Print1toN.executor": "Run",
     "Python.Ex_4_ReverseAList.executor": "Run",
     "Python.Ex_4_SelectionSort.executor": "Run",
+    "Python.Ex_5_DeleteHead.executor": "Run",
     "Python.Ex_5_FirstOccItr2.executor": "Run",
     "Python.Ex_5_GCD.executor": "Run",
+    "Python.Ex_5_InsertAtEnd.executor": "Run",
     "Python.Ex_5_InsertionSort.executor": "Run",
     "Python.Ex_5_PrintNto1.executor": "Run",
     "Python.Ex_5_SecondLargest.executor": "Run",
     "Python.Ex_5_Set.executor": "Run",
     "Python.Ex_5_Subseq.executor": "Run",
+    "Python.Ex_5_delete_head.executor": "Run",
+    "Python.Ex_6_DeleteKNode.executor": "Run",
+    "Python.Ex_6_InsertAtPos.executor": "Run",
     "Python.Ex_6_IsSorted.executor": "Run",
     "Python.Ex_6_LCM.executor": "Run",
     "Python.Ex_6_LastOccItr.executor": "Run",
     "Python.Ex_6_LeftmostRepeating.executor": "Run",
     "Python.Ex_6_Merge2Arrays.executor": "Run",
     "Python.Ex_6_SumOfDigits.executor": "Run",
+    "Python.Ex_6_delete_tail.executor": "Run",
     "Python.Ex_7_LastOccRec.executor": "Run",
     "Python.Ex_7_LeftmostNonRepeating.executor": "Run",
     "Python.Ex_7_MergeSort.executor": "Run",
     "Python.Ex_7_Palindrome.executor": "Run",
     "Python.Ex_7_PrimeNumberCheck.executor": "Run",
+    "Python.Ex_7_Reverse_DLL.executor": "Run",
+    "Python.Ex_7_deleteFirst.executor": "Run",
     "Python.Ex_8_CountOcc.executor": "Run",
+    "Python.Ex_8_DeleteLast.executor": "Run",
     "Python.Ex_8_PrimeFactors.executor": "Run",
     "Python.Ex_8_RemoveDuplicates.executor": "Run",
     "Python.Ex_8_ReverseWordsinString.executor": "Run",
     "Python.Ex_9_AllDivisorsOfN.executor": "Run",
     "Python.Ex_9_Count1s.executor": "Run",
+    "Python.Ex_9_DeleteNodeWithPtr.executor": "Run",
     "Python.Ex_9_LeftRotateBy1.executor": "Run",
     "Python.Ex_9_RevPosOfwordsInSt.executor": "Run",
     "Python.ExcelCols.executor": "Run",
@@ -116,6 +213,7 @@
     "Python.LC_151_RevWordsOfStr.executor": "Run",
     "Python.LC_41_FirstPosNum.executor": "Run",
     "Python.LC_43_MultiplyStrings.executor": "Run",
+    "Python.MaxValOfOrderedTrip.executor": "Run",
     "Python.Misc_10_CountInversions.executor": "Run",
     "Python.Misc_13_QuickSortLomuto.executor": "Run",
     "Python.Misc_14_QuickSortHoares.executor": "Run",
@@ -134,6 +232,7 @@
     "Python.Prob_12_RotateArrayByD.executor": "Run",
     "Python.Prob_13_GetIndexEle.executor": "Run",
     "Python.Prob_15_ReverseArray.executor": "Run",
+    "Python.Prob_15_SortedInsert.executor": "Run",
     "Python.Prob_1_CheckInSortedArray.executor": "Run",
     "Python.Prob_1_HashingForPairSum.executor": "Run",
     "Python.Prob_1_Sequence.executor": "Run",
@@ -169,6 +268,13 @@
     "Python.Quiz_4.executor": "Run",
     "Python.Quiz_6_Longest5Digit.executor": "Run",
     "Python.Quiz_7_NotDivisibleBy3.executor": "Run",
+    "Python.StrWOps.executor": "Run",
+    "Python.StrWOps2.executor": "Run",
+    "Python.ex_1_lists.executor": "Run",
+    "Python.ex_2_using_deque.executor": "Run",
+    "Python.ex_3_custom_implementation_using_linked_lists.executor": "Run",
+    "Python.ex_4_balanced_parenthesis.executor": "Run",
+    "Python.ex_5_min_element_in_stack.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
@@ -184,8 +290,8 @@
       <recent name="$PROJECT_DIR$/Mathematics_Basics/Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LC_151_RevWordsOfStr">
-    <configuration name="Ex_8_ReverseWordsinString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex_5_min_element_in_stack">
+    <configuration name="ex_1_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_8_ReverseWordsinString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_Basics/Examples/ex_1_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_9_RevPosOfwordsInSt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_2_using_deque" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Basics/Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Basics/Examples/Ex_9_RevPosOfwordsInSt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_Basics/Examples/ex_2_using_deque.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LC_151_RevWordsOfStr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_3_custom_implementation_using_linked_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,11 +344,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/LC_151_RevWordsOfStr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_Basics/Examples/ex_3_custom_implementation_using_linked_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LC_41_FirstPosNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_4_balanced_parenthesis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,11 +366,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc/GettingLCQue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/GettingLCQue/LC_41_FirstPosNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_Basics/Examples/ex_4_balanced_parenthesis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +379,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LC_43_MultiplyStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_5_min_element_in_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mission DSA Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,11 +388,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_Basics/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/LC_43_MultiplyStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_Basics/Examples/ex_5_min_element_in_stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,11 +425,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LC_151_RevWordsOfStr" />
-        <item itemvalue="Python.LC_41_FirstPosNum" />
-        <item itemvalue="Python.LC_43_MultiplyStrings" />
-        <item itemvalue="Python.Ex_9_RevPosOfwordsInSt" />
-        <item itemvalue="Python.Ex_8_ReverseWordsinString" />
+        <item itemvalue="Python.ex_5_min_element_in_stack" />
+        <item itemvalue="Python.ex_4_balanced_parenthesis" />
+        <item itemvalue="Python.ex_3_custom_implementation_using_linked_lists" />
+        <item itemvalue="Python.ex_2_using_deque" />
+        <item itemvalue="Python.ex_1_lists" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727222850741</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="LC Misc">
+      <option name="closed" value="true" />
+      <created>1727376085840</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727376085840</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -453,7 +567,8 @@
     <MESSAGE value="Sorting (Basics) Part 2" />
     <MESSAGE value="Hashing (Basics)" />
     <MESSAGE value="String (Basics)" />
-    <option name="LAST_COMMIT_MESSAGE" value="String (Basics)" />
+    <MESSAGE value="LC Misc" />
+    <option name="LAST_COMMIT_MESSAGE" value="LC Misc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

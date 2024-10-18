@@ -19,5 +19,3 @@ if __name__ == '__main__':
     arrays = [[5, 10, 20, 15], [10, 20, 15, 2, 23, 90, 90], [1, 1, 1]]
     for i in arrays:
         print(i, peak_element(i))
-
-
